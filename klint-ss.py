@@ -87,7 +87,7 @@ def logo_menu():
     li = '                               \033[1;94m WELCOME TO KLINT SS TOOL\n'
     lo = mark(li, style='white')
     sol().print(lo, style='blue')
-    banner = f'''{H2}    888    d8P  888      8888888 888b    888 88888888888 
+    banner = f'''{H2}888    d8P  888      8888888 888b    888 88888888888 
 888   d8P   888        888   8888b   888     888     
 888  d8P    888        888   88888b  888     888     
 888d88K     888        888   888Y88b 888     888     
