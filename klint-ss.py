@@ -85,7 +85,7 @@ kom1 = ("Keren banget bangg:v")
 
 def login():
     os.system("clear")
-    print("""
+    print("
 
      \x1b[38;5;46m888    d8P  888      8888888 888b    888 88888888888 
      \x1b[38;5;47m888   d8P   888        888   8888b   888     888     
