@@ -211,11 +211,4 @@ def bot_share():
     except requests.exceptions.ConnectionError:
         print(f"\n{P}(!) Anda tidak terhubung ke internet!");exit()
         
-bot_share()       
-    
-
-
-
-
-
-
+bot_share()
