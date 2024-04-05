@@ -81,21 +81,6 @@ ua_random = random.choice(
      ua_windows, ua_chrome, ua_fb])
 kom1 = ("Keren banget bangg:v")
 
-
-###----------[ INI LOGO ]----------###
-def logo_menu():
-    li = '                               \033[1;94m WELCOME TO KLINT SS TOOL\n'
-    lo = mark(li, style='white')
-    sol().print(lo, style='blue')
-    banner = f'{H2}     
-                                                     
-                                                     
-                                                     
-    cetak(
-        nel(banner, title=f'{P2} {K2}[ {H2}T{H2}A{H2}S{H2}L{H2}I{H2}M {B2}A{B2}U{B2}T{B2}O {K2}S{K2}H{K2}A{K2}R{K2}E {H2}]',
-            subtitle_align='left', padding=1, style='blue'))
-
-
 ###----------[ LOGIN MINU ]----------###
 
 def login():
