@@ -172,7 +172,7 @@ def bot_share():
         login()
     os.system('clear')
     logo_menu()
-    cetak(nel(f'''{B2} User Active     : {H2}{nama} 
+    cetak(nel(f'{B2} User Active     : {H2}{nama} 
 {B2} You Id          : {H2}{id}
 {B2} You Ip          : {H2}{ip}
 {B2} Current Date    :{H2} {hari}, {tanggal}', title=f'{P2} {H2}[ {K2}Cookie Id Information {H2}],
