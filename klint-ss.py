@@ -176,7 +176,7 @@ def bot_share():
 {B2} You Id          : {H2}{id}
 {B2} You Ip          : {H2}{ip}
 {B2} Current Date    :{H2} {hari}, {tanggal}', title=f'{P2} {H2}[ {K2}Cookie Id Information {H2}],
-              subtitle_align='left', padding=1, style='blue'))
+              subtitle_align='left', padding=1, style='blue')
     cetak(
         nel(f'{K2}Hai {H2}{nama},{K2} Apni Je Id Teke Cookie Nisen Id Ta Disable Hoye Jabe Ekto Por {M2}!!\n \t\t {N2}R Ei Share Hocce bot_share.',
             title=f'{P2} {H2}[ {M2}Worning {H2}]', subtitle_align='left', padding=1, style='blue'))
